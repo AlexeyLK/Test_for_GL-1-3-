@@ -13,8 +13,8 @@ int main(int argc, char *argv[])
 //argv[1] - dir
 //argv[2] - file protocol
 {
-    std::thread th_1;
-    std::thread th_2;
+   // std::thread th_1;
+    //std::thread th_2;
     //th_1.join();
     //th_1.join();
     if ((argc<2) || (argc>3))
