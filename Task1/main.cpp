@@ -1,6 +1,6 @@
 #include "Stack.h"
 
-void main()
+int main()
 {
 	StackL<int> SL;
 	
